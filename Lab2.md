@@ -1,8 +1,8 @@
-#CSE15L Lab Report 2
+# CSE15L Lab Report 2
 ![Image](CSE15L_Lab2_SC1.jpg)
 
 
-##Part 1
+## Part 1
 ![Image](CSE15L_Lab2_SC2.jpg)
 1. The handleRequest method of the Handler class was called. Within the handleRequest method, the getPath() method was called to get the path portion of the uri as a string, .equals()
 was called to compare the value of the hard coded string "add-message" to the string value representing the path of the uri, .split() was called to separate the strings based on a specific 
@@ -25,9 +25,9 @@ used to split the string with. The substring's index is the exact location of th
 include a string literal that outlines how variable and non-string-literal values can be nested into the string for output.
 3. No values of the class were changed because all we need to do is to extract strings from the query parameter, which we're able to do directly. 
 
-##Part 2
+## Part 2
 ![Image](CSE15L_Lab2_SC4.jpg)
 
-##Part 3
+## Part 3
 I learned in week 2 how url requests are parsed and handled by servers and how SSH keys is used to authorize users for secure communication between servers.
 I've never understood how private and public SSH keys work together and have always thought of SSH keys as a general password-like authorization. 
