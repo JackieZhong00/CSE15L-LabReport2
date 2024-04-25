@@ -1,4 +1,4 @@
-# CSE15L Lab Report 2
+
 ![Image](CSE15L_Lab2_SC1.jpg)
 
 
